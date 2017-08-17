@@ -1,0 +1,12 @@
+apertium-rus (0.1.0~r81184-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 17 Aug 2017 11:27:03 +0530
+
+apertium-rus (0.1.0~r81184-1) unstable; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release (Closes: #871013)
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 09 Aug 2017 23:34:03 +0530
