@@ -1,3 +1,9 @@
+apertium-rus (0.2.0~r82706-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream release.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 01 Feb 2018 11:40:10 +0530
+
 apertium-rus (0.1.0~r81184-1+wmf2) jessie-wikimedia; urgency=low
 
   * Updated dependency on cg3.
